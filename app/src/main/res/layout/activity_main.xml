@@ -35,7 +35,8 @@
         android:layout_height="wrap_content"
         android:id="@+id/listView"
         android:layout_below="@+id/textView"
-        android:layout_above="@+id/button" />
+        android:layout_above="@+id/button"
+        android:background="#a6fed8d8" />
 
     <Button
         android:layout_width="match_parent"
